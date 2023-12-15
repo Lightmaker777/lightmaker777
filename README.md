@@ -53,6 +53,6 @@ I am actively looking for internship opportunities to apply and enhance my skill
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ievgeniia--ponomarenko..python-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ievgeniia-ponomarenko-python/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ievgeniia--Ponomarenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ievgeniia-ponomarenko-python/)
 
 Feel free to reach out, and let's connect! 😊
