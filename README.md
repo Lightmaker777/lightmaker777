@@ -56,4 +56,4 @@ I am actively looking for internship opportunities to apply and enhance my skill
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ievgeniia--Ponomarenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ievgeniia-ponomarenko-python/)
 
 Feel free to reach out, and let's connect! 😊
-[![](https://visitcount.itsvg.in/api?id=Lightmaker777&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lightmaker777&icon=0&color=0)](https://visitcount.itsvg.in)
