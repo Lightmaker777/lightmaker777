@@ -1,3 +1,6 @@
+
+![image.png](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)
+
 # Hi there! 👋
 
 I'm Ievgeniia, currently diving into the world of Python Backend Programming at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin. My passion lies in web development, and I'm excited about contributing to innovative projects that push the boundaries of what's possible on the web.
