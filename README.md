@@ -1,60 +1,76 @@
 
-![image.png](https://i.makeagif.com/media/4-05-2022/FvBVst.gif)
-
+<div align="center">
+ <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"
+</div>
+  
 # Hi there! 👋
 
-I'm Ievgeniia, currently diving into the world of Python Backend Programming at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin. My passion lies in web development, and I'm excited about contributing to innovative projects that push the boundaries of what's possible on the web.
+I'm Ievgeniia, currently completed an one-year Python Backend Programming course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin. My passion lies in web development, and I'm excited about contributing to innovative projects that push the boundaries of what's possible on the web.
 
 ## 💡 Goals
 
 My goal is to build robust and scalable web applications while continuously expanding my skill set. I'm actively seeking opportunities to collaborate on exciting projects and further enhance my expertise in Python backend development.
 
-## 🌱 Currently Learning
-
-I am currently focused on mastering backend technologies and diving deeper into the world of database management. Continuous learning is a key aspect of my journey, and I am eager to explore more areas within web development.
-
-## 🤝 Let's Connect
-
-If you share a passion for web development or have an interesting project in mind, feel free to connect with me. I'm open to collaborations, discussions, and always ready to learn from fellow developers.
-
-
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ievgeniia-ponomarenko-python/)
-
 # 💻 Tech Stack:
 
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-
-
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-
-
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-
-
-  ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo" alt="ubuntu logo" title="Ubuntu, Zorin + andere Distro's" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" title="Linux UI+CLI/Terminal"  />  
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="40" alt="powershell logo" title="Microsoft Windows PowerShell 7"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" title="Linux Bash (Terminal)" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML 5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS 3" />
+  <img width="12" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" />
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="json logo" title="JSON" />
+  <img width="12" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="BootStrap 5"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactbootstrap/reactbootstrap-original.svg"  height="40" alt="reactbootstrap logo" title="ReactBootStrap"  />
+  <img width="12" />  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo" title="TailWind" />
+  <img width="12" />    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VSCode" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  height="40" alt="visualstudio logo" title="Microsoft Visual Studio Professional & Community"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="40" alt="postman logo" title="Postman"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo" title="PostgreSQL" />
+  <img width="12" />
+  <br />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo" title="Google Chrome" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" height="40" alt="firefox logo" title="Mozilla Firefox" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo" title="Opera Browser" />
+  
+</div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lightmaker777&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lightmaker777&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lightmaker777&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Lightmaker777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=de&hide_border=true&order=1" height="150" alt="stats graph"  />
+<img src="https://streak-stats.demolab.com?user=Lightmaker777&locale=de&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lightmaker777&locale=de&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=true&order=2" height="150"  alt="languages graph"  />
+
+</div>
 
 
 ## 🚀 Looking/Seeking
 
-I am actively looking for internship opportunities to apply and enhance my skills. If you have an exciting project or internship opportunity, I would love to connect!
+I am actively looking for job opportunities to apply and enhance my skills!
 
-## Connect with Me
+## My LinkedIn Profile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ievgeniia--Ponomarenko-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ievgeniia-ponomarenko-python/)
 
