@@ -2,11 +2,8 @@
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 </div>
-<div align="center">  
-
-
-# 💻 Tech Stack:
-</div>
+<br />
+<br />
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019"  />
   <img width="12" />
