@@ -1,16 +1,9 @@
 
 <div align="center">
- <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" />
+ <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 </div>
-<div align="center"> 
- 
-# Hi there! 👋
+<div align="center">  
 
-I'm Ievgeniia, currently completed an one-year Python Backend Programming course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin. My passion lies in web development, and I'm excited about contributing to innovative projects that push the boundaries of what's possible on the web.
-
-## 💡 Goals
-
-My goal is to build robust and scalable web applications while continuously expanding my skill set. I'm actively seeking opportunities to collaborate on exciting projects and further enhance my expertise in Python backend development.
 
 # 💻 Tech Stack:
 </div>
