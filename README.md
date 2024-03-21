@@ -36,8 +36,7 @@ My goal is to build robust and scalable web applications while continuously expa
   <img width="12" />
 <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="40" alt="Django logo" title="Django" />
   <img width="12" /> 
-
- <br />
+<img src="https://www.edigitalagency.com.au/wp-content/uploads/chatgpt-logo-white-green-background-png.png" height="40" alt="GPT logo" title="GPT" /> <br />
  <br />
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" title="Amazon Web Services" />
   <img width="12" /> 
