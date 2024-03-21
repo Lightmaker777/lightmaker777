@@ -62,6 +62,8 @@ My goal is to build robust and scalable web applications while continuously expa
   
 </div>
 
+<div align="center"> 
+
 # 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Lightmaker777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=de&hide_border=true&order=1" height="150" alt="stats graph" />
@@ -82,3 +84,5 @@ Feel free to reach out, and let's connect! 😊
 
 
 [![](https://visitcount.itsvg.in/api?id=lightmaker777&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
