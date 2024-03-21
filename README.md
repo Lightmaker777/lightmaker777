@@ -34,11 +34,14 @@ My goal is to build robust and scalable web applications while continuously expa
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" height="40" alt="json logo" title="JSON" />
   <img width="12" />
-<img src="https://www.djangoproject.com/s/img/logos/django-logo-positive.png" height="40" alt="Django logo" title="Django" />
+<img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" height="40" alt="Django logo" title="Django" />
   <img width="12" /> 
+
  <br />
  <br />
-<img src="https://www.django-rest-framework.org/img/logo.png" height="40" alt="DRF logo" title="Django REST Framework" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="AWS logo" title="Amazon Web Services" />
+  <img width="12" /> 
+ <img src="https://www.django-rest-framework.org/img/logo.png" height="40" alt="DRF logo" title="Django REST Framework" />
  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" title="BootStrap 5"  />
   <img width="12" />
