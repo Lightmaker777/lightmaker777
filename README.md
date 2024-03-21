@@ -1,8 +1,9 @@
 
 <div align="center">
- <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif"
+ <img src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif" />
 </div>
-  
+<div align="center"> 
+ 
 # Hi there! 👋
 
 I'm Ievgeniia, currently completed an one-year Python Backend Programming course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) in Berlin. My passion lies in web development, and I'm excited about contributing to innovative projects that push the boundaries of what's possible on the web.
@@ -12,7 +13,7 @@ I'm Ievgeniia, currently completed an one-year Python Backend Programming course
 My goal is to build robust and scalable web applications while continuously expanding my skill set. I'm actively seeking opportunities to collaborate on exciting projects and further enhance my expertise in Python backend development.
 
 # 💻 Tech Stack:
-
+</div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows11 logo" title="Microsoft Windows 7/8/10/11 + Server 2012/2016/2019"  />
   <img width="12" />
