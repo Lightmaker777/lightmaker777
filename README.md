@@ -72,7 +72,7 @@ I am actively looking for job opportunities to apply and enhance my skills!
 
 Feel free to reach out, and let's connect! 😊
 
-
+<div align="center">
 [![](https://visitcount.itsvg.in/api?id=lightmaker777&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
