@@ -52,12 +52,15 @@
   
 </div>
 
+<div align="center"> 
+
 # 📊 GitHub Stats:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Lightmaker777&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=de&hide_border=true&order=1" height="150" alt="stats graph" />
     <img src="https://streak-stats.demolab.com?user=Lightmaker777&locale=de&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lightmaker777&locale=de&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
+
 
 ## 🚀 Looking/Seeking
 
@@ -69,11 +72,13 @@ I am actively looking for job opportunities to apply and enhance my skills!
 
 Feel free to reach out, and let's connect! 😊
 
-## Visitor Count
+
 [![](https://visitcount.itsvg.in/api?id=lightmaker777&icon=0&color=0)](https://visitcount.itsvg.in)
 
+</div>
+
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+ <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
 </div>
 
 
